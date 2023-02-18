@@ -15,3 +15,6 @@ This will allow you to import these files directly into the Portal Rules Editor.
 I will have a video on this coming soon!
 
 This will allow you to back up your experience code and work around the experience limit.
+
+Updated to incorporate 'TheOzzys' fantastic Github plugin. Will be shifting each experience into individual repositories. Clearly this will mean more reposititories but will mean that transfer of code to Github is much easier. You can find information on how to install the Github plugin for Portal and how it works in the video by TheOzzy on Youtube at the following link:
+https://www.youtube.com/watch?v=7XPlNgooF7Y
