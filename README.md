@@ -1,6 +1,8 @@
 If you use any of the code in this repository, please credit 'Battlefield Dad' and my channel in any
 experiences, videos or submissions you make. It's all I ask! Thanks.
 
+I am currently in the process of backing up all my past experiences so that I can clear out some space. Unfortunately that will mean that some of the experience codes listed on my channel will no longer work because of Portal updates. You can of course still duplicate them from the playground id or from the back ups here.
+
 This is the code repository for my Youtube channel 'Battlefield Dad'
 You can find video tutorials, guides and the latest news for 
 Battlefield 2042 Portal on my channel at
